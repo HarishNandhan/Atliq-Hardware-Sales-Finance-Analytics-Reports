@@ -1,4 +1,4 @@
-# 📊 Atliq Hardware Sales and Finance Analytics Excel Reports
+# 📊 Atliq Hardware Sales and Finance Analytics Reports
 
 ## 📝 Project Description
 
@@ -32,7 +32,7 @@ This project includes a set of Excel reports created to study and understand the
 
 ---
 
-## 🖼️ Company Branding
+## 🖼️ ATLIQ HARDWARE
 
 ![Atliq Logo](./atliq_logo.png)
 
@@ -55,6 +55,7 @@ This project includes a set of Excel reports created to study and understand the
 - Used Pivot Table + formulas for calculation
 - Helped managers understand long-term progress
 
+![P&L_Statement_years](./atliq_logo.png)
 ---
 
 ### 📄 Report 3: P&L by Different Markets
@@ -87,20 +88,39 @@ This project includes a set of Excel reports created to study and understand the
 - Showed where targets were missed
 - Helped identify gaps and improve planning
 
+![Market Performance vs Target](./atliq_logo.png)
 ---
 
 ## 📂 Folder Structure
-├── Datasets/ │ ├── fact_sales_monthly_with_cost.csv │ ├── ns_targets_2021.csv │ └── add_finance_data.xlsx │ ├── Reports/ │ ├── P&L Statement by Fiscal months.pdf │ ├── P&L Statement by Fiscal years.pdf │ ├── P&L by Different Markets.pdf │ ├── Customer_NetSales_Performance.pdf │ ├── Gross_Margin_Percentage_by_quarters_subzones.pdf │ └── Market Performance vs Target.pdf │ ├── atliq_logo.png └── README.md
+📁 Datasets/
+├── fact_sales_monthly_with_cost.zip
+├── ns_targets_2021.csv
+└── add_finance_data.xlsx
+
+📁 Reports/
+├── P&L Statement by Fiscal months.pdf
+├── P&L Statement by Fiscal years.pdf
+├── P&L by Different Markets.pdf
+├── Customer_NetSales_Performance.pdf
+├── Gross_Margin_Percentage_by_quarters_subzones.pdf
+└── Market Performance vs Target.pdf
+
+📁 Images/
+├── atliq_logo.png
+├── Market Performance vs Target.png
+├── P&L_Statement_years.png
+
+📄 README.md
+
 
 
 ---
 
-## 🙏 Closing Note
 
 Thank you for taking the time to explore this project.
 
 **Feel free to reach out to me to discuss further on this project or if you would like to collaborate on a different one.**  
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/harishnandhanshanmugam/)
 
 ---
 
