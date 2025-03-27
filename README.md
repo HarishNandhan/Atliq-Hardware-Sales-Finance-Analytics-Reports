@@ -34,7 +34,7 @@ This project includes a set of Excel reports created to study and understand the
 
 ## 🖼️ ATLIQ HARDWARE
 
-![Atliq Logo](./atliq_logo.png)
+![Atliq Logo](https://github.com/HarishNandhan/Atliq-Hardware-Sales-Finance-Analytics-Reports/blob/main/Images/atliq_logo.png)
 
 ---
 
@@ -55,7 +55,7 @@ This project includes a set of Excel reports created to study and understand the
 - Used Pivot Table + formulas for calculation
 - Helped managers understand long-term progress
 
-![P&L_Statement_years](./atliq_logo.png)
+![P&L_Statement_years](https://github.com/HarishNandhan/Atliq-Hardware-Sales-Finance-Analytics-Reports/blob/main/Images/P%26L_Statement_years.png)
 ---
 
 ### 📄 Report 3: P&L by Different Markets
@@ -88,7 +88,7 @@ This project includes a set of Excel reports created to study and understand the
 - Showed where targets were missed
 - Helped identify gaps and improve planning
 
-![Market Performance vs Target](./atliq_logo.png)
+![Market Performance vs Target](https://github.com/HarishNandhan/Atliq-Hardware-Sales-Finance-Analytics-Reports/blob/main/Images/Market%20Performance%20vs%20Target.png)
 ---
 
 ## 📂 Folder Structure
