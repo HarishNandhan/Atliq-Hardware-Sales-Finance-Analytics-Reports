@@ -93,12 +93,25 @@ This project includes a set of Excel reports created to study and understand the
 
 ## 📂 Folder Structure
 
-📁 Datasets/ ├── fact_sales_monthly_with_cost.zip ├── ns_targets_2021.csv └── add_finance_data.xlsx
+```
+📁 Datasets/
+├── fact_sales_monthly_with_cost.zip
+├── ns_targets_2021.csv
+└── add_finance_data.xlsx
 
-📁 Reports/ ├── P&L Statement by Fiscal months.pdf ├── P&L Statement by Fiscal years.pdf ├── P&L by Different Markets.pdf ├── Customer_NetSales_Performance.pdf ├── Gross_Margin_Percentage_by_quarters_subzones.pdf └── Market Performance vs Target.pdf
+📁 Reports/
+├── P&L Statement by Fiscal months.pdf
+├── P&L Statement by Fiscal years.pdf
+├── P&L by Different Markets.pdf
+├── Customer_NetSales_Performance.pdf
+├── Gross_Margin_Percentage_by_quarters_subzones.pdf
+└── Market Performance vs Target.pdf
 
-📁 Images/ ├── atliq_logo.png ├── Market Performance vs Target.png ├── P&L_Statement_years.png
-📄 README.md
+📁 Images/
+├── atliq_logo.png
+├── Market Performance vs Target.png
+├── P&L_Statement_years.png
+```
 
 
 
